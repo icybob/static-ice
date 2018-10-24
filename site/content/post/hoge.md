@@ -1,15 +1,15 @@
 +++
-author = "englianhu"
+author = "Jedi IcyBob"
 comments = false
-date = "2016-01-01"
+date = ""
 draft = false
 image = ""
 menu = ""
 share = false
-slug = "test"
-title= "test post"
+slug = "Discord"
+title= "Discord"
 +++
 
 ```bash
-echo "hello world !!"
+"hello world !!"
 ```

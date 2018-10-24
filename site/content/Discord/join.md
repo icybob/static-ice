@@ -6,8 +6,8 @@ draft = false
 image = ""
 menu = ""
 share = false
-slug = "Discord"
-title= "Discord"
+slug = "Join"
+title= "Join us on Discord!"
 +++
 
 ```bash

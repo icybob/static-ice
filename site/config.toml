@@ -3,6 +3,9 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Static Ice Corporation"
 
+[author]
+  name = "Jedi Icybob"
+
 [params]
   AuthorName = "Jedi Icybob"
   GitHubUser = "icybob"
@@ -10,7 +13,7 @@ title = "Static Ice Corporation"
   Subtitle = "Hugo is Absurdly Fast!"
   logo = "images/LOGO.png"
   authorwebsite = "https://static-ice-corporation.com/"
-  
+
 [permalinks]
   post = "/:year/:month/:title/"
   

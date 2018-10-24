@@ -3,22 +3,19 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Static Ice Corporation"
 
-[author]
-  name = "Jedi Icybob"
-
 [params]
-  AuthorName = "Jedi Icybob"
+  Author = ""
   GitHubUser = "icybob"
   SidebarRecentLimit = 5
   Subtitle = "Hugo is Absurdly Fast!"
   logo = "images/LOGO.png"
   authorwebsite = "https://static-ice-corporation.com/"
+  RSSLink = "https://www.eveonline.com/rss/news"
+  disableKinds = ["taxonomy", "taxonomyTerm"]
+  cover = "images/user.jpg"
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/:title/"
   
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+

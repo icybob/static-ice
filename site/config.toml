@@ -3,6 +3,17 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Static Ice Corporation"
 
+[params]
+  AuthorName = "Jedi Icybob"
+  GitHubUser = "icybob"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = "Hugo is Absurdly Fast!"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  logo = "images/LOGO.jpg"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration

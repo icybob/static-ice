@@ -1,0 +1,21 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Static Ice Corporation"
+
+[params]
+  Author = ""
+  GitHubUser = "icybob"
+  SidebarRecentLimit = 5
+  Subtitle = "Hugo is Absurdly Fast!"
+  logo = "images/LOGO.png"
+  authorwebsite = "https://static-ice-corporation.com/"
+  RSSLink = "https://www.eveonline.com/rss/news"
+  disableKinds = ["taxonomy", "taxonomyTerm"]
+  cover = "images/user.jpg"
+
+[permalinks]
+  post = "/:title/"
+  
+
+

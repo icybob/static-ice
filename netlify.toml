@@ -1,9 +1,0 @@
-[Settings]
-  ID = "cac34f95-71b4-4fec-8251-40e21cf7d249"
-  
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[context.deploy-preview]
-  command = "npm run build-preview"
